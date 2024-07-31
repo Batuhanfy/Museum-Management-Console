@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\bin\Debug\MuzeProjesi.exe.config
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\bin\Debug\MuzeProjesi.exe
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\bin\Debug\MuzeProjesi.pdb
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\obj\Debug\MuzeProjesi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\obj\Debug\MuzeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\obj\Debug\MuzeProjesi.exe
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\obj\Debug\MuzeProjesi.pdb
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LENOVO\source\repos\MuzeProjesi\MuzeProjesi\obj\Debug\MuzeProj.953FA39B.Up2Date
