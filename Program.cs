@@ -100,7 +100,7 @@ namespace MuzeProjesi
                 Console.SetCursorPosition(startX, startY + 10);
                 Console.WriteLine(
                     "╚══════════════════════════════════════════════════════════════╝"
-                );
+                 );
 
                 // --------------------------------- //
 
