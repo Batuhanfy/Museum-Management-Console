@@ -112,7 +112,7 @@ namespace MuzeProjesi
                 Console.BackgroundColor = ConsoleColor.DarkGreen;
                 Console.ForegroundColor = ConsoleColor.White;
                 // Kullanıcıdan menüden bir öğe seçmesi bekleniyor..
-                switch (choice)
+                 switch (choice)
                 {
                     case 1:
                         BuyTicket();
