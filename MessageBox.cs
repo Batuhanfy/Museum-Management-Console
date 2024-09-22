@@ -17,8 +17,8 @@ namespace MuzeProjesi
             // Ekran Boyutu Değişkenleri
             Console.BackgroundColor = ConsoleColor.DarkGreen;
 
-            int windowWidth = Console.WindowWidth;
-            int windowHeight = Console.WindowHeight;
+             int windowWidth = Console.WindowWidth;
+             int windowHeight = Console.WindowHeight;
 
             // Ekranın Ortasını Belirten Kordinat Tanımları
 
