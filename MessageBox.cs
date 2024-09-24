@@ -10,7 +10,7 @@ namespace MuzeProjesi
     internal class MessageBox
     {
 
-        public static void Show(string message)
+         public static void Show(string message)
         {
             Console.Clear();
 
