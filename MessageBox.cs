@@ -22,7 +22,7 @@ namespace MuzeProjesi
 
             // Ekranın Ortasını Belirten Kordinat Tanımları
 
-            int startX = (windowWidth - 60) / 2;
+            int startX = (windowWidth - 70) / 2;
             int startY = (windowHeight - 20) / 2;
 
             Console.SetCursorPosition(startX, startY);
