@@ -104,7 +104,7 @@ namespace MuzeProjesi
 
                 // --------------------------------- //
 
-                // Cursor'un Getirileceği Yer - >  ' Seçiminizi Yapın: '
+                // Cursor'un Getirileceği Yer - >  '  Seçiminizi Yapın: '
                 Console.SetCursorPosition(startX + 22, startY + 9);
 
                 int choice = 0;
