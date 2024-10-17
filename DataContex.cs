@@ -15,7 +15,7 @@ namespace MuzeProjesi
         {
             try
             {
-                db = new SqlConnection(@"data source=DESKTOP-UO2Q3MT\SQLEXPRESS;initial catalog=Muzeler;integrated security=true");
+                 db = new SqlConnection(@"data source=DESKTOP-UO2Q3MT\SQLEXPRESS;initial catalog=Muzeler;integrated security=true");
 
             }
             catch (Exception ex)
