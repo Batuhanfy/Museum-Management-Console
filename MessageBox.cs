@@ -29,7 +29,7 @@ namespace MuzeProjesi
             Console.WriteLine(message);
 
             
-              Thread.Sleep(1901);
+              Thread.Sleep(1900);
         }
     }
   
