@@ -20,7 +20,7 @@ Bu proje, C# .NET Framework ve SQL bağlantıları kullanılarak geliştirilmiş
 ## Kullanılan Teknolojiler
 - **Programlama Dili:** C#
 - **Framework:** .NET Framework
-- **Veritabanı:** SQL Server
+- **Veritabanı:**  MSSQL Server
 
 ## Kurulum
 1. Depoyu klonlayın:
